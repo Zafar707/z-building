@@ -26,9 +26,9 @@ const About = () => {
               <FaHardHat />
             </div>
             <h3 className="text-xl font-semibold text-gray-800 mb-2">
-              {t("feature1Title")}
+              {t("service1Title")}
             </h3>
-            <p className="text-gray-600">{t("feature1Desc")}</p>
+            <p className="text-gray-600">{t("service1Desc")}</p>
           </div>
 
           {/* Card 2 */}
@@ -37,9 +37,9 @@ const About = () => {
               <FaProjectDiagram />
             </div>
             <h3 className="text-xl font-semibold text-gray-800 mb-2">
-              {t("feature2Title")}
+              {t("service2Title")}
             </h3>
-            <p className="text-gray-600">{t("feature2Desc")}</p>
+            <p className="text-gray-600">{t("service2Desc")}</p>
           </div>
 
           {/* Card 3 */}
@@ -48,9 +48,9 @@ const About = () => {
               <FaUsers />
             </div>
             <h3 className="text-xl font-semibold text-gray-800 mb-2">
-              {t("feature4Title")}
+              {t("service3Title")}
             </h3>
-            <p className="text-gray-600">{t("feature4Desc")}</p>
+            <p className="text-gray-600">{t("service3Desc")}</p>
           </div>
         </div>
 
